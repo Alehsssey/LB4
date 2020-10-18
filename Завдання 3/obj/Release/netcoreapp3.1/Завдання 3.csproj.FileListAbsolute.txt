@@ -1,0 +1,13 @@
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\bin\Release\netcoreapp3.1\Завдання 3.exe
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\bin\Release\netcoreapp3.1\Завдання 3.deps.json
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\bin\Release\netcoreapp3.1\Завдання 3.runtimeconfig.json
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\bin\Release\netcoreapp3.1\Завдання 3.runtimeconfig.dev.json
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\bin\Release\netcoreapp3.1\Завдання 3.dll
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\bin\Release\netcoreapp3.1\Завдання 3.pdb
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.csprojAssemblyReference.cache
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.AssemblyInfoInputs.cache
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.AssemblyInfo.cs
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.csproj.CoreCompileInputs.cache
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.dll
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.pdb
+D:\c#\oop6\Лабораторна робота №2\Завдання 3\obj\Release\netcoreapp3.1\Завдання 3.genruntimeconfig.cache
